@@ -1,3 +1,6 @@
+#kullanıcıya hangi cinsten değer gireceğini soruyoruz. Ardından girdiği değerleri temel 7 birime çevirip ekrana yazdırıyoruz.
+
+
 cns = input("[km]=kilometre\n[hm]=hektometre\n[dam]=dekametre\n[m]=metre\n[dm]=desimetre\n[cm]=santimetre\n[mm]=milimetre\nHangi cinsten değer gireeksiniz?")
 if cns == "cm" :
     deger = int(input("bir değer giriniz"))
