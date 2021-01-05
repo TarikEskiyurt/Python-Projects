@@ -11,8 +11,5 @@ else:
           a=a*(counter)
      print(a)
 
-     if a == 0:
-          print("1")
-
 
 
